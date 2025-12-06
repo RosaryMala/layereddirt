@@ -1,0 +1,13 @@
+{
+  "itemGroup.layereddirt": "Example Mod Tab",
+  "block.layereddirt.example_block": "Example Block",
+  "item.layereddirt.example_item": "Example Item",
+
+  "layereddirt.configuration.title": "Layered Dirt Configs",
+  "layereddirt.configuration.section.layereddirt.common.toml": "Layered Dirt Configs",
+  "layereddirt.configuration.section.layereddirt.common.toml.title": "Layered Dirt Configs",
+  "layereddirt.configuration.items": "Item List",
+  "layereddirt.configuration.logDirtBlock": "Log Dirt Block",
+  "layereddirt.configuration.magicNumberIntroduction": "Magic Number Text",
+  "layereddirt.configuration.magicNumber": "Magic Number"
+}
